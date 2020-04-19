@@ -1,0 +1,3 @@
+[submodule "Orbitality/Assets/Thirdparty/unity-tools"]
+	path = Orbitality/Assets/Thirdparty/unity-tools
+	url = https://github.com/thenitro/unity-tools.git
